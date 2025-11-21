@@ -1,0 +1,5 @@
+# Простейший сценарий: пауза и печать текста
+WAIT:1000
+TYPE:Hello, HID Studio!
+WAIT:500
+PRESS_AND_RELEASE:enter
