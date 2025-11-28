@@ -1,0 +1,5 @@
+# Демонстрация комбо-команды
+WAIT:1000
+COMBO:ctrl,c
+WAIT:500
+COMBO:ctrl,v
