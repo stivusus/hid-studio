@@ -34,3 +34,12 @@ git clone https://github.com/stivusus/hid-studio.git
 cd hid-studio
 pip install -r requirements.txt
 
+---
+
+## 📂 Examples
+В папке `examples/` находятся демонстрационные скрипты:
+- hello.py — простая печать текста
+- combo.py — комбинации клавиш
+- arduino_demo.py — работа напрямую с Arduino HID
+
+
